@@ -1,0 +1,4 @@
+/**
+ * Root TypoScript template for the ITC.Main site
+ */
+include: resource://Itc.ITeleTraffic/Private/TypoScript/*

@@ -1,5 +1,5 @@
 {
-    "name": "itc/iteletrafficmain",
+    "name": "itc/itcmain",
     "type": "typo3-flow-site",
     "description": "Add description here",
     "require": {
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Itc\\ITeleTrafficMain": "Classes"
+            "Itc\\Main": "Classes"
         }
     }
 }
